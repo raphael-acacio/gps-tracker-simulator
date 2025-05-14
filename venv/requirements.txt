@@ -1,0 +1,16 @@
+# Conexão com banco de dados
+mysql-connector-python==8.3.0
+sqlalchemy==2.0.30  # Caso use SQLite ou ORM futuramente
+
+# Utilitários de rede e simulação
+requests==2.31.0
+geopy==2.4.1
+paho-mqtt==1.6.1
+gelfclient==1.3.0
+
+# Aplicação web e APIs
+flask==3.0.2
+python-dotenv==1.0.1
+
+# Utilitários extras
+regex==2023.12.25
